@@ -1,0 +1,6 @@
+C:\Users\G1\source\repos\PooVueling\PooVueling\bin\Debug\PooVueling.dll
+C:\Users\G1\source\repos\PooVueling\PooVueling\bin\Debug\PooVueling.pdb
+C:\Users\G1\source\repos\PooVueling\PooVueling\obj\Debug\PooVueling.csprojAssemblyReference.cache
+C:\Users\G1\source\repos\PooVueling\PooVueling\obj\Debug\PooVueling.csproj.CoreCompileInputs.cache
+C:\Users\G1\source\repos\PooVueling\PooVueling\obj\Debug\PooVueling.dll
+C:\Users\G1\source\repos\PooVueling\PooVueling\obj\Debug\PooVueling.pdb
